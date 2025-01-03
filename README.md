@@ -28,13 +28,12 @@ Follow these steps to set up and run the project locally -
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ringle-nft-amm.git
-   cd ringle-nft-amm
+   https://github.com/SUNIDHI-JAIN125/FoodCopilot.git
+   cd FoodCopilot
    ```
 
 2. **Install dependencies:**
    ```bash
-   cd frontend
    yarn install
    # or
    npm install
