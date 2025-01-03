@@ -10,7 +10,7 @@
 - **Meal Planning**: Plan meals efficiently around your schedule.
 - **Time Management**: Saves time by helping you prepare meals in advance.
 - **User-Friendly Design**: Simple interface for easy navigation and meal tracking.
-
+<br/>
 
 ### Tech Stack 🛠️
 
@@ -21,7 +21,7 @@
 - **TypeScript**: Enhances code scalability and maintainability,ensures type safety.
 - **Tailwind CSS**: Utility-first CSS framework for fast and responsive styling.
 
-
+<br/>
 
 ## Getting Started 🖥️
 Follow these steps to set up and run the project locally - 
@@ -50,6 +50,7 @@ Follow these steps to set up and run the project locally -
    NEXT_PUBLIC_GEMINI_KEY =
    NEXT_PUBLIC_SPOON_KEY = 
     ```
+<br/>
 
 ## Contribution Guide
 We welcome contributions to the Food Copilot project! Feel free to report bugs, suggest features, or submit pull requests. Follow these steps to get started:
