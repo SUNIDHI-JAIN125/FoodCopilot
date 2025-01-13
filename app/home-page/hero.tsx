@@ -1,5 +1,7 @@
 "use client";
 import Image from "next/image";
+import Link from "next/link";
+import { FaGithub} from "react-icons/fa";
 import Balancer from "react-wrap-balancer";
 
 
@@ -17,7 +19,17 @@ const Hero = () => {
 
         <div>
             <div className="flex justify-between  items-center">
-              
+
+            <div className="absolute top-5 right-16 flex items-center gap-2 text-black">
+          <FaGithub size={20} />
+          <Link
+            href="https://github.com/SUNIDHI-JAIN125/FoodCopilot"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="hover:underline">GitHub</span>
+          </Link>
+        </div>
             </div>
              <Image src={Logo} width={200} height={100} alt="Company Logo" className="" />
             <div className="flex flex-col items-center  text-center">
